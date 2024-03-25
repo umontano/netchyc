@@ -1,2 +1,2 @@
 # netchyc
-# netchyc
+labchyc.netlify.app
